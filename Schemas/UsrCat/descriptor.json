@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "76cc97f4-1244-4cba-80e4-9e2712b6c599",
+    "Name": "UsrCat",
+    "ModifiedOnUtc": "\/Date(1703418306000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cat",
+    "DependsOn": []
+  }
+}

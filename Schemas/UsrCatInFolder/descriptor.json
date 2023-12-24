@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a94dbe8e-ad58-4501-a07f-3caed2b1d4e2",
+    "Name": "UsrCatInFolder",
+    "ModifiedOnUtc": "\/Date(1703417858000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cat в группе",
+    "DependsOn": []
+  }
+}

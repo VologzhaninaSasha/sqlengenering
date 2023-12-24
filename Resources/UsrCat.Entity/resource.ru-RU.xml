@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cat" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="Дата" />
+			<Item Name="Columns.UsrDatetime2.Caption" Value="Дата рождения" />
+			<Item Name="Columns.UsrInteger1.Caption" Value="Вес" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrOcras.Caption" Value="Окрас" />
+			<Item Name="Columns.UsrString1.Caption" Value="Окрас" />
+			<Item Name="Columns.UsrVes.Caption" Value="Вес" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
