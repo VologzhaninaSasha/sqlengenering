@@ -1,0 +1,30 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "d70f2fe1-18e8-406c-b311-dd58941322bc",
+      "A2": "UsrClientUnit",
+      "A5": "695d4c58-69dc-485c-b62b-71002e46c02d",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "b955d070-4042-bb8f-1c7a-eef556cc172e",
+          "A2": "BpmCancelEventButton",
+          "A3": "d70f2fe1-18e8-406c-b311-dd58941322bc",
+          "A4": "d70f2fe1-18e8-406c-b311-dd58941322bc",
+          "A5": "695d4c58-69dc-485c-b62b-71002e46c02d"
+        }
+      ],
+      "B3": [],
+      "B6": "d8ab7884-b9d1-f4d0-f925-fab06c3f64e6",
+      "B8": "1.2.0.3013",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b42be60-6c80-40b2-a161-79628cdd7586",
+    "Name": "UsrMasya_1",
+    "ModifiedOnUtc": "\/Date(1704460459000)\/",
+    "Parent": {
+      "UId": "76cc97f4-1244-4cba-80e4-9e2712b6c599",
+      "Name": "UsrCat"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Цвета"
+  }
+}
